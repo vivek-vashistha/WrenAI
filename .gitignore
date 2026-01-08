@@ -54,7 +54,7 @@ __MACOSX/
 *.pem
 
 # sqlite
-*.sqlite
+# *.sqlite
 *.sqlite3
 
 # ui
