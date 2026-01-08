@@ -33,7 +33,7 @@ docker/docker-compose-local.yaml
 docker/data
 
 # benchmarks
-benchmarks/
+# benchmarks/
 
 # python
 .python-version
