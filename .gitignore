@@ -32,6 +32,9 @@ docker/config.yaml
 docker/docker-compose-local.yaml
 docker/data
 
+# benchmarks
+benchmarks/
+
 # python
 .python-version
 

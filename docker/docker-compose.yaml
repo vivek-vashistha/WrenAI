@@ -72,6 +72,7 @@ services:
   qdrant:
     image: qdrant/qdrant:v1.11.0
     restart: on-failure
+    platform: ${PLATFORM}
     expose:
       - 6333
       - 6334
